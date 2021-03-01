@@ -19,9 +19,9 @@ input pattern controller for mobiles in Iran
    ###
      
      بدون نیاز به 
-     
+     css
      یا
-     
+     js
      
      
      با تشکر از برنامه
